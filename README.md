@@ -28,7 +28,7 @@ and likely to change based on how things are going.
 
 | Week | Date          | Topics | TODOs |
 | ---- | ------------- | ------ | --------- |
-|  01  | 01/09 - 01/13 | introduction <br> overview of machine learning <br> review/background material  | Create a [Piazza account](https://piazza.com/gvsu/winter2023/cis378) |
+|  01  | 01/09 - 01/13 | introduction <br> [background-topics-word-list](words-list-first-day.txt) <br> overview of machine learning <br> review/background material  | Create a [Piazza account](https://piazza.com/gvsu/winter2023/cis378) |
 |  02  | 01/16 - 01/20 | background material (cont.) |  |
 |  03  | 01/23 - 01/27 | classification  |  |
 |  04  | 01/30 - 02/03 | classification |  |

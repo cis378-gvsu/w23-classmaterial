@@ -1,0 +1,24 @@
+Taylor series
+scaling
+transpose
+log function
+Bayes Theorem
+correlation
+derivative
+quantitative variable
+categorical variable
+euclidean distance
+optimization
+histogram
+matrix
+vector
+normal distribution
+binomial distribution
+mean
+median
+covariance
+variance
+Sigma/summation notation
+conditional probability
+expected value
+convex
