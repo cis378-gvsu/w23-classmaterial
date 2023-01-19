@@ -22,7 +22,7 @@ Suppose you have the following data:
 1. Estiimate the probability of each class given the data:
 
 
-
+<br><br><br><br><br><br>
 
 
 
@@ -33,6 +33,9 @@ Suppose you have the following data:
 
 
 
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
 
