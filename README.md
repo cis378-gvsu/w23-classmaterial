@@ -29,7 +29,7 @@ and likely to change based on how things are going.
 | Week | Date          | Topics | TODOs |
 | ---- | ------------- | ------ | --------- |
 |  01  | 01/09 - 01/13 | introduction <br> [background-topics-word-list](words-list-first-day.txt) <br> overview of machine learning <br> [review/background material](scribbles-from-class/378notes-01-12-23.pdf)  | Create a [Piazza account](https://piazza.com/gvsu/winter2023/cis378) |
-|  02  | 01/16 - 01/20 | background material (cont.) |  |
+|  02  | 01/16 - 01/20 | classification <br> [nearest neighbor notebook link](https://drive.google.com/file/d/1tqHfKMW2Pob4aHH023ytBif-4aHIoerB/view?usp=sharing) |  |
 |  03  | 01/23 - 01/27 | classification  |  |
 |  04  | 01/30 - 02/03 | classification |  |
 |  05  | 02/06 - 02/10 | high-dimensional data | |
