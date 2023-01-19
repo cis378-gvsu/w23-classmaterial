@@ -5,6 +5,7 @@
 Suppose you have the following data:
 
 | temperature | weather | played golf |
+| ---- | ---- | ----- |
 | warm | sunny | yes |
 | cold | rainy | no |
 | hot | sunny | no |
