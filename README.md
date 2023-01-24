@@ -29,9 +29,9 @@ and likely to change based on how things are going.
 | Week | Date          | Topics | TODOs |
 | ---- | ------------- | ------ | --------- |
 |  01  | 01/09 - 01/13 | introduction <br> [background-topics-word-list](words-list-first-day.txt) <br> overview of machine learning <br> [review/background material](scribbles-from-class/378notes-01-12-23.pdf)  | Create a [Piazza account](https://piazza.com/gvsu/winter2023/cis378) |
-|  02  | 01/16 - 01/20 | classification <br> [nearest neighbor notebook link](https://drive.google.com/file/d/1tqHfKMW2Pob4aHH023ytBif-4aHIoerB/view?usp=sharing) |  |
-|  03  | 01/23 - 01/27 | classification  |  |
-|  04  | 01/30 - 02/03 | classification |  |
+|  02  | 01/16 - 01/20 | [classification - KNN](scribbles-from-class/378notes-01-17-23.pdf) <br> [nearest neighbor notebook link](https://drive.google.com/file/d/1tqHfKMW2Pob4aHH023ytBif-4aHIoerB/view?usp=sharing) <br> [classification - Naive Bayes](scribbles-from-class/378notes-01-19-23.pdf) |  |
+|  03  | 01/23 - 01/27 | classification  | [HW 1 Released](assignments/hw1_knn_naivebayes.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cis378-gvsu/w23-classmaterial/blob/main/assignments/hw1_knn_naivebayes.ipynb) |
+|  04  | 01/30 - 02/03 | classification | HW 1 Due 01/31 |
 |  05  | 02/06 - 02/10 | high-dimensional data | |
 |  06  | 02/13 - 02/17 | high-dimensional data / low rank approximation |  |
 |  07  | 02/20 - 02/24 | regression |  |
@@ -43,4 +43,4 @@ and likely to change based on how things are going.
 |  13  | 04/03 - 04/07 | deep learning |  |
 |  14  | 04/10 - 04/14 | deep learning |  |
 |  15  | 04/17 - 04/21 | misc (tentatively graphical models) |  |
-|  16  | 04/24 - 04/28 | Project Presentations |  |  |
+|  16  | 04/24 - 04/28 | Project Presentations Thursday, April 27, 8:00 am - 9:50 am |  |  |
