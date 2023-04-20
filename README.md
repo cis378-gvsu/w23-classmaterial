@@ -43,5 +43,5 @@ and likely to change based on how things are going.
 |  12  | 03/27 - 03/31 | deep learning | HW Due 03/30 |
 |  13  | 04/03 - 04/07 | deep learning |  |
 |  14  | 04/10 - 04/14 | deep learning <br> [deep learning tutorial](https://colab.research.google.com/drive/1pcgtOrVGOaYgSW99qiDIi-fEb6icfMC-?usp=sharing) |  |
-|  15  | 04/17 - 04/21 | misc (tentatively graphical models) | [Extra Credit HW4 (Due 04/25)](assignments/hw4_extra_credit_vector_quantization_released) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fRQS3gILI5QrqQXwRzXc2qrjz20PT0h4?usp=sharing) |
+|  15  | 04/17 - 04/21 | misc (tentatively graphical models) | [Extra Credit HW4 (Due 04/25)](assignments/hw4_extra_credit_vector_quantization_released.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fRQS3gILI5QrqQXwRzXc2qrjz20PT0h4?usp=sharing) |
 |  16  | 04/24 - 04/28 | Project Presentations Thursday, April 27, 8:00 am - 9:50 am |  |  |
